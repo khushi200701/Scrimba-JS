@@ -1,4 +1,4 @@
-## Scrimba-JS-Course
+# Scrimba-JS-Course
 ### Learnt the basics of JavaScript by solving 140+ interactive coding challenges and building three fun projects
 ### Link to my article about this ocurse: https://dev.to/krimson/scrimba-javascript-course-4ejd
 ### Link to the free course: https://scrimba.com/learn/learnjavascript
